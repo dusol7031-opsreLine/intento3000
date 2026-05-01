@@ -20,6 +20,7 @@ public class Intento3000 {
         
         System.out.println("el valor es:"+a);
         System.out.println("el valor no es:"+b);
+        System.out.println("c is not variable");
     }
     
 }
