@@ -19,6 +19,7 @@ public class Intento3000 {
         int b=0;
         
         System.out.println("el valor es:"+a);
+        System.out.println("el valor no es:"+b);
     }
     
 }
